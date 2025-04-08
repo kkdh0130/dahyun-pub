@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dahyun-pub/static/css/main.905adc5f.css",
+    "main.js": "/dahyun-pub/static/js/main.090cd90f.js",
+    "static/js/151.99e88123.chunk.js": "/dahyun-pub/static/js/151.99e88123.chunk.js",
+    "static/media/DungGeunMo.ttf": "/dahyun-pub/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
+    "static/media/bootstrap-icons.woff?": "/dahyun-pub/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/dahyun-pub/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/dahyun-pub/index.html",
+    "main.905adc5f.css.map": "/dahyun-pub/static/css/main.905adc5f.css.map",
+    "main.090cd90f.js.map": "/dahyun-pub/static/js/main.090cd90f.js.map",
+    "151.99e88123.chunk.js.map": "/dahyun-pub/static/js/151.99e88123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905adc5f.css",
+    "static/js/main.090cd90f.js"
+  ]
+}
