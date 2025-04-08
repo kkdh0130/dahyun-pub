@@ -2,7 +2,7 @@
   "name": "dahyun-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kkdh0130.github.io/dahyun-portfolio",
+  "homepage": "https://kkdh0130.github.io/dahyun-pub",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",

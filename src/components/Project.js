@@ -50,7 +50,7 @@ function Project() {
         },
       ],
       canva:
-        "https://www.canva.com/design/DAGcP1SqICA/TcVUoliEQJ1v-LrUJRDlkQ/view?utm_content=DAGcP1SqICA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2ec48839a",
+        "https://www.canva.com/design/DAGhhV3BQ-k/FFLj7wjgPztCVMaHytrAQQ/view?utm_content=DAGhhV3BQ-k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9387afb634",
     },
     {
       id: 2,
